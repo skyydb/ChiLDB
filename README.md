@@ -17,6 +17,6 @@ See the follow details:
 香港開源/文化界如何在本地和全球視角下實施或解決問題？
 這個項目的SWOT-- 強、弱、機會、危害。
 
-I notice that I am more fluent in using English terminology for my research and profession. I have been thinking about what does it mean my Chinese identity? I am learning and please be patient with me. I may need to use google translate to help me.
+I notice that I am more fluent in using English terminology for my research and profession. I have been thinking about what does it mean my Chinese identity。 I am learning and please be patient with me. I may need to use google translate to help me.
 
 欢迎参与、分享、多多指教。

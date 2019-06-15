@@ -1,5 +1,5 @@
 # ChiLDB 开源世界语言目录资料库
-Chi L DB -- I gave birth to another Child name B. Child B, it stand for Languages Database in Chinese（Open Source).
+Chi L DB -- I gave birth to another Child name B. Child B, it stand for Languages Database in Chinese（Open Source), i.e. ChiLD.
 
 This project is created based on my idea and presentation of Hong Kong Open Source Conference 2019.
 See the follow details:
@@ -20,3 +20,7 @@ See the follow details:
 I notice that I am more fluent in using English terminology for my research and profession. I have been thinking about what does it mean my Chinese identity。 I am learning and please be patient with me. I may need to use google translate to help me.
 
 欢迎参与、分享、多多指教。
+
+Powerpoint link: 
+
+https://drive.google.com/file/d/1Cl0ye5qWjkI1tjsQLlDFQqxIIhIBMWfP/view?usp=sharing
